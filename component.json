@@ -1,0 +1,10 @@
+{
+  "name": "layoutmanager-amd",
+  "version": "0.8.7",
+  "main": "backbone.layoutmanager.js",
+  "dependencies": {
+    "jquery": ">=1.6",
+    "underscore-amd": "~1.4",
+    "backbone-amd": "~1.0"
+  }
+}
